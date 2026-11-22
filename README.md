@@ -59,7 +59,7 @@ Main dependencies: `pandas`, `matplotlib`, `openpyxl`, `streamlit` (it also prov
 ## Installation
 
 ```bash
-git clone https://github.com/YuzuiQionglou/wu_course06.git
+git clone https://github.com/emlyon-hids-python-2026/wu_course06.git
 cd wu_course06
 uv sync          # or: make install
 ```
